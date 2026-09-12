@@ -1,5 +1,13 @@
 {
-  "theme_override": "auto",
+  "theme_override": "snow",
   "city": "Farg'ona",
-  "games": ["xo", "snake", "spinner", "dino", "shipwar", "pacman", "parkour"]
+  "games": [
+    "xo",
+    "snake",
+    "spinner",
+    "dino",
+    "shipwar",
+    "pacman",
+    "parkour"
+  ]
 }
